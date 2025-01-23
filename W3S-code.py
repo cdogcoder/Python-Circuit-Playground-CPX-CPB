@@ -1,23 +1,23 @@
-x = 5
-y = "John"
+x = 3
+y = "Kevin"
 print(x)
 print(y)
 
-x = 4     
-x = "Sally"
+x = 19     
+x = "Ron"
 print(x)
 
-x = str(3)  
-y = int(3)    
-z = float(3)
+x = str(21)  
+y = int(12)    
+z = float(3102)
 
-x = 5
-y = "John"
+x = 59
+y = "Johnny"
 print(type(x))
 print(type(y))
 
-x = "John"
-x = 'John'
+x = "Jim"
+x = 'Jim'
 
-a = 4
-A = "Sally"
+a = 1212
+A = "Sal"
