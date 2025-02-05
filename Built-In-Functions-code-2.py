@@ -1,0 +1,11 @@
+print("Kevin")
+user_input = input("Can we get a 'I love you Kevin'?")
+print(int("10"))
+print(type(10))
+print(abs(-102))
+print(len(user_input))
+
+print(max([123,1211111111,23,1,1.23]))
+print(range(21))
+print(round(12.23))
+print(pow(10, -12)
