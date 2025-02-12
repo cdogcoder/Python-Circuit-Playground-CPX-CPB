@@ -25,7 +25,7 @@ main()
 # not running into raised exception errors, which stop the execution of the program
 # all together
 
-def my_math(x,y,op):
+def my_math2(x,y,op):
   if op == "+":
     return x + y
   elif op == "-":
@@ -45,7 +45,7 @@ def main():
             my_num_1 = input("Num 1: ")
             my_num_2 = input("Num 2: ")
             op = input("Operation: ")
-        sum = my_math(float(my_num_1), float(my_num_2), op)
+        sum = my_math2(float(my_num_1), float(my_num_2), op)
         print("The sum of", my_num_1, op, my_num_2, "=",sum)
         break
 main()
